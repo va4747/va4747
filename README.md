@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://va4747.io)
 <h1 align="center">Hey, I'm Vasu Goel 🖐</h1>
 <h3 align="center">I am passionate frontend developer from India <br>Pursuing my <b>Btech</b> in Computer Science from <br><b>Sri Ramaswamy Memorial Institute of Science and Technology, Chennai</b></h3>
-<img align="center" alt="coding" width="400" src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif">
+<p align ="center"><img src = https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif height="400"></p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="center">Let's Connect</h3>
 <p align="center">
